@@ -6,8 +6,6 @@ import sys
 
 
 def main():
-    STOPPAGE_FLAG = False
-    COUNT = 1
     p = Path("/proc/")
 
     fullFormat = False
